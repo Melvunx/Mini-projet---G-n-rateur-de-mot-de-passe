@@ -55,7 +55,7 @@ const generatePassword = () => {
   generateButton.textContent = "Mdp copié !";
 
   setTimeout(() => {
-    generateButton.textContent = "Générer mot de passe";
+    generateButton.textContent = "Générer un mot de passe";
   }, 2000);
 };
 
